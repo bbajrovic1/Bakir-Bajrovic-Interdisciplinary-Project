@@ -1,0 +1,38 @@
+# Core Data Science Libraries
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+
+# Machine Learning and NLP
+scikit-learn
+nltk
+
+# Topic Modeling
+bertopic
+top2vec
+sentence-transformers
+
+# Deep Learning
+torch
+transformers
+
+# Sentiment Analysis
+vaderSentiment
+
+# Visualization
+matplotlib-venn
+upsetplot
+
+# Web Scraping
+selenium
+
+# Translation and Language Detection
+googletrans==4.0.0rc1
+langdetect
+dl-translate
+fasttext
+
+# Progress Bars
+tqdm
